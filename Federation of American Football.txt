@@ -1,5 +1,5 @@
 Virginia Vultures,VV
-Qb,Taylor Heinicke,23,2015,86,85,95,85,87,55,1,5
+QB,Taylor Heinicke,23,2015,86,85,95,85,87,55,1,5
 Qb,Derek Devine,32,2007,75,65,85,7797,20,0.5,5
 Rb,Bruce Perry,29,2008,82,75,95,85,87,62,1,5
 Rb,Keenan Reynolds,23,2016,74,75,88,81,77,61,1,5
